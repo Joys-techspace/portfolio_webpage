@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font: fantasy;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -95,7 +95,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #1b1f22;
+		background: #7d7a7a;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -442,7 +442,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #1b1f22;
+			background: #7d7a7a;
 		}
 
 		select:focus::-ms-value {
@@ -1174,7 +1174,7 @@ input, select, textarea {
 		}
 
 		body.is-preload #bg:before {
-			background-color: #000000;
+			background-color: #7d7a7a;
 		}
 
 /* Wrapper */
